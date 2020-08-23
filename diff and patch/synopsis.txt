@@ -1,0 +1,24 @@
+	
+
+							DSA Project Sypnosis
+
+
+
+	Name : Abhishek Honmute
+	Mis No. : 111803055
+	
+	Project Name : diff command	
+	
+	Objective :  
+		syntax :diff [OPTION] FILES
+		
+		diff command can be used to compair two files line by line . In its output , it prints the lines from the files which are not 		same depending on the option we have given . Also we are going to impliment patch command which can be used to store the dissimiller 
+	lines in two files into the third file which is called patch file and we can edit orignal file using patch file .
+	
+	I am going to impliment following options :
+	-y  -c  -r  -t  -w  -b -i 
+	for patching of files we have to impliment -u also .
+	
+
+
+		For this project I am going to use open and close functions to open the files . We have to use string librarys functions to 		compair two lines . use errno library to show errors.

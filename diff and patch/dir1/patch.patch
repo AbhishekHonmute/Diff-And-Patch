@@ -1,0 +1,18 @@
+*** file1.txt	2019-11-06 17:31:06.124049263 +0530
+--- file2.txt	2019-11-06 17:26:26.420035926 +0530
+***************
+*** 1,6 ****
+  wef
+  puneet
+  wef
+  rwf
+- name
+  wfesd
+--- 1,7 ----
+  wef
++ road
+  puneet
+  wef
++ rtgdvc y
+  rwf
+  wfesd
