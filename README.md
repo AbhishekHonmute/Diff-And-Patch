@@ -1,4 +1,5 @@
-# diff-and-patch-linux-terminal-command-in-c
+# diff-and-patch
+linux terminal command in c
 diff and patch command in linux terminal using c
 dif : I have created a diff.c file in c which compares two files line by line and find outs the longest common sub sequence in them and gives us output as instructions to how to make them same in minimum steps. It uses 2D array as data structure and uses Longest common subsequence algorithm
 
